@@ -13,3 +13,12 @@ You can download microsoft office 2007 at http://getintopc.com/softwares/product
 You may leave an email to join at snake87401@yahoo.com, snake87401@gmail.com, or at snake87401@live.com.
 
 I well add you as a collaborator asap.
+
+Special Thanks
+https://diablo2.diablowiki.net
+
+http://diablo.wikia.com/wiki/Diablo_Wiki
+
+https://www.wikipedia.org/
+
+http://www.gamepedia.com/

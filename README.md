@@ -4,6 +4,8 @@ A Diablo II Community Guide that well be more up to date then any other guide, p
 
 Currently a work in progress and may take some time to complete before the pdf versions are released.
 
+Added the PDF Branch to the repo currently it is empty and will feature the PDF versions. https://github.com/shrek15001/Diablo-II-The-Community-Guide/tree/PDF-Branch
+
 Currently looking for people who know the game to help out where they can.
 
 We are working with Microsoft Office 2007 if you are intrested.
@@ -15,6 +17,7 @@ You may leave an email to join at snake87401@yahoo.com, snake87401@gmail.com, or
 I well add you as a collaborator asap.
 
 Special Thanks
+
 https://diablo2.diablowiki.net
 
 http://diablo.wikia.com/wiki/Diablo_Wiki

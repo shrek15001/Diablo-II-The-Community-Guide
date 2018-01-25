@@ -1,30 +1,36 @@
 ===============
 =====News======
 ===============
-January 18th 2018
-It has been decided that after we do Expansion Classes we will be working on the more easy stuff in the Guide Sections folder.
+January 25th 2018
+The Expansion Class Druid will be added shortly under the Expansion Classes section of the guide
 
 January 19th 2018
 Some lore will state something not related to any lore at all, but will state some addtional info in its place verses the orginal traditions and knowledge of the said subject. This is due to the fact that there has yet to be anything found out about the said subject. Once the the knowledge has been found the proper adjustments will be made.
 
+January 18th 2018
+It has been decided that after we do Expansion Classes we will be working on the more easy stuff in the Guide Sections folder.
+
 ===============
 =====Info======
 ===============
-October 1st 2017
-The Basics, Introduction, and Credits may need some revising but will get back to that at a later time.
+January 25th 2018
+Changed some stuff around in the Classes section of the guide and added Skill Name: in front of the skill names.
 
-October 7th 2017
-Known Builds Main Builds.docx is the only compleated document in the Know Builds folder.
-
-October 21st 2017
-Gave a break from classes folder and worked on the Credits some more work will need to be done here.
-
-October 25th 2017
-Added a Refrance txt file in the Events folder for the chat gem for a future use for anyone to work on the Events Chat Gem.docx file.
+January 19th 2018
+Added a New pic in the Diablo II Artwork called World of Sanctuary Possible Training Grounds. These may or may not be exact training ground locations it is here only as a refrance.
 
 January 18th 2018
 The orginal 5 Classes have there info and ready for viewing.
 
-January 19th 2018
-Added a New pic in the Diablo II Artwork called World of Sanctuary Possible Training Grounds. These may or may not be exact training ground locations it is here only as a refrance.
+October 25th 2017
+Added a Refrance txt file in the Events folder for the chat gem for a future use for anyone to work on the Events Chat Gem.docx file.
+
+October 21st 2017
+Gave a break from classes folder and worked on the Credits some more work will need to be done here.
+
+October 7th 2017
+Known Builds Main Builds.docx is the only compleated document in the Know Builds folder.
+
+October 1st 2017
+The Basics, Introduction, and Credits may need some revising but will get back to that at a later time.
 

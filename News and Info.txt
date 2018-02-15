@@ -1,6 +1,9 @@
 ===============
 =====News======
 ===============
+Febraury 15 2018
+We are more then likely to work on Known Builds next but then again we may also decide on Act Quests.
+
 January 25th 2018
 The Expansion Class Druid will be added shortly under the Expansion Classes section of the guide
 
@@ -13,6 +16,9 @@ It has been decided that after we do Expansion Classes we will be working on the
 ===============
 =====Info======
 ===============
+February 15 2018
+The following sections are done for now "Classes and Expansion Classes" they still need some work done to them and will save that for another time.
+
 January 25th 2018
 Changed some stuff around in the Classes section of the guide and added Skill Name: in front of the skill names.
 
